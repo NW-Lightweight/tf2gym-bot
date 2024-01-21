@@ -8,7 +8,7 @@
  
 ## List of commands
  
-dev - Dev notes
+dev - Dev notes<br>
 stop - Kick the bot from VC<br>
 user - Displays info about a user<br>
 ban - Bans a user. Mod only<br>
