@@ -2,7 +2,7 @@
  Main page of the tf2gym discord bot. Maintained by Lightweight. <br>
  For suggestions and issues create a new issue.<br>
  
- Bot version: 2.0 <br>
+ Bot version: 2.1 <br>
  Command prefix: > <br>
  For help use >help <br>
  
@@ -24,6 +24,7 @@ help - Displays general information about the bot.<br>
 ask - Ask a question to AI<br>
 commands - Lists all commands<br>
 stop - Kick the bot from VC<br>
+translate - Translates messages to chosen language <br>
 
 ## Usage of specific commands
 
@@ -32,3 +33,4 @@ stop - Kick the bot from VC<br>
 >ask (your text here, spaces allowed)<br>
 >weather (name of city, for example New York) <br>
 >timer (amount of time, order doesn't matter, for example 5s 1m 2h)<br>
+>translate (langauge code, for example >translate EN - will translate to english, list of supported languages in the languages.txt) <br>
